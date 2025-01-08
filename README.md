@@ -3,11 +3,11 @@
 
 ###
 
-<h3 align="center">👨🏻‍💻About Me</h3>
+<h3 align="left">👨🏻‍💻About Me</h3>
 
 ###
 
-<p align="center">I'm parsa nazer<br><br>- 📚computer engineer student<br>- ⚡python/django developer<br>- 🔭 curios and constantly learning</p>
+<p align="left">I'm parsa nazer<br><br>- 📚computer engineer student<br>- ⚡python/django developer<br>- 🔭 curios and constantly learning</p>
 
 ###
 
