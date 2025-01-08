@@ -1,8 +1,5 @@
 ![Parsa Nazer](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Hey%20%20there👋&section=header&reversal=false&textBg=false&fontAlign=42&animation=fadeIn&rotate=0&desc=I'm%20Parsa-dev&fontAlignY=41&descAlignY=75&descAlign=64&fontSize=50&descSize=25)
 
-###
-
-<h1 align="center">hey there 👋</h1>
 
 ###
 
