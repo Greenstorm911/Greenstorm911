@@ -3,17 +3,17 @@
 
 ###
 </hr>
-<h2 align="left">👨🏻‍💻About Me</h2>
+<h2 align="center">👨🏻‍💻About Me</h2>
 
-###
+<br>
 
 <p align="left">I'm parsa nazer<br><br>- 📚computer engineer student<br>- ⚡python/django developer<br>- 🔭 curios and constantly learning</p>
+<br>
+<br>
 
-###
 
 <h2 align="center">🛠 Language and tools I use</h2>
 
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
@@ -42,12 +42,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
 </div>
+<br>
+<br>
 
-###
 
-<h2 align="center">🛠 Language and tools I'm familiar with</h2>
+<h2 align="center">🛠 Language and tools I'm familiar with and learning</h2>
 
-###
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -88,8 +89,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 </div>
+<br>
+<br>
 
-###
 
 <h2 align="center">🔥   My Stats :</h2>
 
@@ -105,7 +107,8 @@
 
 ###
 
-
+<h2 align="center">📲 My Social:</h2>
+<br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
