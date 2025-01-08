@@ -3,7 +3,7 @@
 
 ###
 </hr>
-<h3 align="left">👨🏻‍💻About Me</h3>
+<h2 align="left">👨🏻‍💻About Me</h2>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<h3 align="center">🛠 Language and tools I use</h3>
+<h2 align="center">🛠 Language and tools I use</h2>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<h3 align="center">🛠 Language and tools I'm familiar with</h3>
+<h2 align="center">🛠 Language and tools I'm familiar with</h2>
 
 ###
 
@@ -91,7 +91,7 @@
 
 ###
 
-<h3 align="center">🔥   My Stats :</h3>
+<h2 align="center">🔥   My Stats :</h2>
 
 ###
 
